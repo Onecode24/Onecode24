@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onecode24
 - 👀 I’m interested in  la programmation bas niveau et les application E-commerçe
-- 🌱 I’m currently learning du javascript
-- 💞️ I’m looking to collaborate on tous projet de E-commerçe et de code
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on tous projet de E-commerçe and code
 - 📫 How to reach me angelo24yanve@gmail.com
 
 
