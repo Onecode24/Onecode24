@@ -97,9 +97,9 @@
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Onecode24&theme=vision-friendly-dark&background=)](https://github.com/Onecode24)
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=onecode24&show_icons=true&theme=vision-friendly-dark)](https://github.com/Onecode24)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=onecode24&show_icons=true&theme=vision-friendly-dark&background=)](https://github.com/Onecode24)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onecode24&layout=compact&theme=vision-friendly-dark)](https://github.com/Onecode24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onecode24&layout=compact&theme=vision-friendly-dark&background=)](https://github.com/Onecode24)
 
 </main>
