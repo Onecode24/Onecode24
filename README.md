@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:angelo24yanve@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        <img src="https://img.shields.io/badge/G--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://twitter.com/onecode24">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -90,5 +90,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" **alt="VueJs" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wprdpress" width="40" height="40"/>
 </div>
-    
+
+---
+## 📊 My Github Stats :
+
+
+[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Onecode24&theme=vision-friendly-dark&background=)](https://github.com/Onecode24)
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=onecode24&show_icons=true&theme=vision-friendly-dark)](https://github.com/Onecode24)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onecode24&layout=compact&theme=vision-friendly-dark)](https://github.com/Onecode24)
+
 </main>
